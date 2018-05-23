@@ -1,4 +1,8 @@
 $(document).ready(function(){
+	$("#caution").css({
+		'color':'#ffffff',
+		'text-align':'right'
+	});
 
 let size = 0;
 let slideNum = 0;
